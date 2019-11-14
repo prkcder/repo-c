@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # repo-c
 Repo C with commits from Repo A and Repo B
 
@@ -6,3 +7,6 @@ I am from Repo A.
 
 # repo-b
 I am from Repo B.
+=======
+# mars
+>>>>>>> mars/master
